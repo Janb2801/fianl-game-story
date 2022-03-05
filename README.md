@@ -1,3 +1,5 @@
+[toc]
+
 # fianl-game-story
 ## goal
 ### escape the maze, collect and doge the ememy cubes and reach the switch to turn them off and escape the room, 
