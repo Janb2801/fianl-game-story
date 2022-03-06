@@ -4,7 +4,7 @@
 ## goal
 ### escape the maze, collect and doge the ememy cubes and reach the switch to turn them off and escape the room, 
 ## story
-### you play a blue cube named blue and she has been sent to some areas to stop a group 
+### you play a blue cube named blue and she has been sent to some areas to stop a group of rogue sentinels by turning off their power  
 ## players
 ### PC- blue, yellow
 ### Npc, ememys, bosses, coins
